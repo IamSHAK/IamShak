@@ -495,8 +495,7 @@ a.btn {
     margin-top: 5px;
 }
 
-/* --- DESKTOP (default) --- */
-/* Keep all your existing desktop styles here as-is */
+
 
 /* --- TABLET (481px - 768px) --- */
 @media (min-width: 481px) and (max-width: 768px) {
